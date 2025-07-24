@@ -19,12 +19,12 @@
 
 ### Certificates and Badges 🏅
 
-<p align="left">
-<img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="120" height="120"/> </a>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13894976" alt="Uncomplicating Istio" width="120" height="120"/> </a>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/11744806" alt="Uncomplicating Kubernetes" width="120" height="120"/> </a>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13777777" alt="Uncomplicating Docker" width="120" height="120"/> </a>
-</p>
+<div align="center">
+  <img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="120" height="120" style="margin: 10px;"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13894976" alt="Uncomplicating Istio" width="120" height="120" style="margin: 10px;"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/11744806" alt="Uncomplicating Kubernetes" width="120" height="120" style="margin: 10px;"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13777777" alt="Uncomplicating Docker" width="120" height="120" style="margin: 10px;"/>
+</div>
 
 
 ### Languages and Tools 🛠️
@@ -48,12 +48,11 @@
 - [Intro](https://www.youtube.com/watch?v=WI8iyvNFwsY)
 <!-- YOUTUBE:END -->
 
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellbastos&show_icons=true&locale=en&layout=compact" alt="wellbastos" /></p>
-<br />
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wellbastos&show_icons=true&locale=en" alt="wellbastos" /></p>
-<hr />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellbastos" alt="wellbastos" /></a> </p>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wellbastos&show_icons=true&locale=en&layout=compact" alt="wellbastos" />
+<img src="https://github-readme-stats.vercel.app/api?username=wellbastos&show_icons=true&locale=en" alt="wellbastos" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellbastos" alt="wellbastos" /></a>
+</div>
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
