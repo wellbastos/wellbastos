@@ -41,6 +41,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [21 de abril de 2025](https://www.youtube.com/shorts/qOuj_X4tigA)
+- [Meu Homelab](https://www.youtube.com/watch?v=64UHzX8DjiA)
+- [Teclado para automações no Home Assistant](https://www.youtube.com/watch?v=YEhD1XRVwC0)
+- [Espdeck](https://www.youtube.com/watch?v=xgpB96AstD0)
+- [Intro](https://www.youtube.com/watch?v=WI8iyvNFwsY)
 <!-- YOUTUBE:END -->
 
 <br />
