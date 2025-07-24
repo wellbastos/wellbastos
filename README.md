@@ -19,7 +19,7 @@
 
 ### Certificates and Badges 🏅
 
-<div align="center">
+<div align="left">
   <img src="https://images.credly.com/size/340x340/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="GitOps Fundamentals" width="120" height="120" style="margin: 10px;"/>
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13894976" alt="Uncomplicating Istio" width="120" height="120" style="margin: 10px;"/>
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/11744806" alt="Uncomplicating Kubernetes" width="120" height="120" style="margin: 10px;"/>
