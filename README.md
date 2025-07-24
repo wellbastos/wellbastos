@@ -51,7 +51,7 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellbastos&show_icons=true&locale=en&layout=compact" alt="wellbastos" /></p>
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellbastos&show_icons=true&locale=en" alt="wellbastos" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wellbastos&show_icons=true&locale=en" alt="wellbastos" /></p>
 <hr />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellbastos" alt="wellbastos" /></a> </p>
 
@@ -59,6 +59,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
