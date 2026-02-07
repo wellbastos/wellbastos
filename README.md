@@ -41,11 +41,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [7 de fevereiro de 2026](https://www.youtube.com/watch?v=6IaZBplw7js)
 - [Jogando creatures of sonaria](https://www.youtube.com/watch?v=LgH7VEI-CE4)
 - [16 de dezembro de 2025](https://www.youtube.com/shorts/o6WjlRlTfQQ)
 - [12 de outubro de 2025](https://www.youtube.com/shorts/Qg0Pp989a18)
 - [21 de abril de 2025](https://www.youtube.com/shorts/qOuj_X4tigA)
-- [Meu Homelab](https://www.youtube.com/watch?v=64UHzX8DjiA)
 <!-- YOUTUBE:END -->
 
 <div align="left">
