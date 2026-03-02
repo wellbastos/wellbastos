@@ -41,11 +41,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [É hora de plantar](https://www.youtube.com/watch?v=3w9SxjdKbWc)
 - [Mundo do dandan](https://www.youtube.com/watch?v=US8NKpHzNQ4)
 - [Jogando um jogo muito legal](https://www.youtube.com/watch?v=2nJujEFyWC4)
 - [Jogando no Roblox jogo de pegar animais marinhos e colocar no aquário](https://www.youtube.com/watch?v=qoV5zQtn5wg)
 - [Jogando tsuname brainrot com meu amigo](https://www.youtube.com/watch?v=G-53HpnLogc)
-- [7 de fevereiro de 2026](https://www.youtube.com/watch?v=6IaZBplw7js)
 <!-- YOUTUBE:END -->
 
 <div align="left">
