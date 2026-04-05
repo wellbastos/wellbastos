@@ -41,11 +41,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [Jogando BrawL STARS parte 3](https://www.youtube.com/watch?v=7ujz20c9A3A)
 - [Braw star parte 2](https://www.youtube.com/watch?v=2vS2h-wb_mE)
 - [Braw star parte 1](https://www.youtube.com/watch?v=hnUyq_T5ZOk)
 - [É hora de plantar](https://www.youtube.com/watch?v=3w9SxjdKbWc)
 - [Mundo do dandan](https://www.youtube.com/watch?v=US8NKpHzNQ4)
-- [Jogando um jogo muito legal](https://www.youtube.com/watch?v=2nJujEFyWC4)
 <!-- YOUTUBE:END -->
 
 <div align="left">
