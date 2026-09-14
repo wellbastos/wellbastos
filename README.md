@@ -41,11 +41,11 @@
 
 ### Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
+- [o verity](https://www.youtube.com/shorts/jLpSYvdzx9c)
 - [Jogando futebol de rua parte 1](https://www.youtube.com/watch?v=iviSpF2Kkg4)
 - [Jogando BrawL STARS parte 3](https://www.youtube.com/watch?v=7ujz20c9A3A)
 - [Braw star parte 2](https://www.youtube.com/watch?v=2vS2h-wb_mE)
 - [Braw star parte 1](https://www.youtube.com/watch?v=hnUyq_T5ZOk)
-- [É hora de plantar](https://www.youtube.com/watch?v=3w9SxjdKbWc)
 <!-- YOUTUBE:END -->
 
 <div align="left">
